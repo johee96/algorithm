@@ -1,3 +1,4 @@
+package EX;
 import java.util.Scanner;
 
 class datatype {

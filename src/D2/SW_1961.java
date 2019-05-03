@@ -1,3 +1,4 @@
+package D2;
 //1961. 숫자 배열 회전
 import java.util.*;
 

@@ -1,3 +1,4 @@
+package D6;
 import java.util.Scanner;
 
 //1795. 인수의 생일 파티 -다익스트라사용

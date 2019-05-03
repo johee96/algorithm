@@ -1,3 +1,4 @@
+package D3;
 import java.util.Scanner;
 
 public class SW_2805 {

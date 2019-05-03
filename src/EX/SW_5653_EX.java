@@ -1,3 +1,4 @@
+package EX;
 
 //1차시 [모의SW역량테스트 해설] 줄기세포배양
 import java.util.*;

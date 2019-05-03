@@ -1,3 +1,4 @@
+package D4;
 //4613. 러시아 국기 같은 깃발
 import java.util.Scanner;
 

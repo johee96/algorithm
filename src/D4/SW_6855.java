@@ -1,3 +1,4 @@
+package D4;
 import java.util.Scanner;
 import java.util.Arrays;
 public class SW_6855 {

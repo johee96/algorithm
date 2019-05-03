@@ -1,3 +1,4 @@
+package D5;
 import java.util.Scanner;
 import java.util.ArrayList;
 public class SW_5521 {

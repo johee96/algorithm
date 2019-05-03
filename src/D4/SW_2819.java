@@ -1,3 +1,4 @@
+package D4;
 //2819. 격자판의 숫자 이어 붙이기
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+package D4;
 //1868. 파핑파핑 지뢰찾기
 import java.util.Scanner;
 

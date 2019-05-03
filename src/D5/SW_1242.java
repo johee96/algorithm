@@ -1,3 +1,4 @@
+package D5;
 //1242. 암호코드 스캔
 import java.util.ArrayList;
 import java.util.Scanner;

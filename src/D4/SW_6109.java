@@ -1,3 +1,4 @@
+package D4;
 import java.util.Scanner;
 
 public class SW_6109 {
