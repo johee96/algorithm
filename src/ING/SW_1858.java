@@ -15,8 +15,7 @@ public class SW_1858 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner sc = new Scanner(System.in);
-
+		Scanner sc = new Scanner(System.in);//test
 		int test = sc.nextInt();
 		for (int test_case = 1; test_case <= test; test_case++) {
 
